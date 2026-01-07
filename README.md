@@ -1,4 +1,4 @@
-## Hi, I'm Bhavya Raheja 👋
+## Hi, I'm Bunty Rajput 👋
 
 ### 🚀 Who am I
 A passionate developer and technologist, with a background in web development (MERN stack).
