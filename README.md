@@ -12,5 +12,5 @@ Platforms: GitHub
 Development: VS Code, Git, RESTful APIs, Postman
 
 ### 📬 How to ping me
-  Connect on [LinkedIn](adss.com)
-  Email: bk623118@gmail.com
+	Connect on [LinkedIn](adss.com)
+	Email: bk623118@gmail.com
