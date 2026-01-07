@@ -1,5 +1,5 @@
 ## Hi, I'm Bunty Rajput 👋
-🚀 Who am I
+### 🚀 Who am I
 A passionate developer and technologist, with a background in web development (MERN stack).
 
 ### 🛠️ What I'm currently working on
