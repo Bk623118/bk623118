@@ -20,4 +20,4 @@ A passionate developer and technologist, with a background in web development (M
 
 ### 📬 How to ping me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
-- 📧 [Email](mailto:bhavya.raheja1998@gmail.com)
+- 📧 [Email](mailto:bk623118@gmail.com)
